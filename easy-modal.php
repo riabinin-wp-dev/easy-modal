@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Easy-modal
-Plugin URI: https://t.me/ryabininvitaliy
+Plugin URI: https://github.com/riabinin-wp-dev/easy-modal
 Description: Простой плагин для модальных окон.
 Version: 1.0
 Author: Ryabinin Vitaliy
